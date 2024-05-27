@@ -1,4 +1,4 @@
-As a computer vision enthusiast, I worked on a project to develop a semiconductor defect detection system. One of the key steps in this project was annotating around 500 images to build a custom dataset. Each image contained approximately 50 defects that needed to be labeled. This process could be quite tedious and time-consuming, and I was determined to find a more efficient solution.
+As a computer vision Practitioner, I worked on a project to develop a semiconductor defect detection system. One of the key steps in this project was annotating around 500 images to build a custom dataset. Each image contained approximately 50 defects that needed to be labeled. This process could be quite tedious and time-consuming, and I was determined to find a more efficient solution.
 
 After searching high and low for annotation software that would make my life easier, I stumbled upon Roboflow. And let me tell you, it was like a match made in computer vision heaven. Roboflow had this amazing feature that was the answer to my annotation prayers – the ability to copy all annotations from one image and paste them onto the next image. It was like magic!
 
